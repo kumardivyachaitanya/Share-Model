@@ -1,6 +1,6 @@
 To access the site-https://share-model-sand.vercel.app/
 
-# DevDetective
+#    Share-Model
 
 DevDetective is a web application that allows users to search for GitHub profiles by username. It fetches data from the GitHub API and displays user information such as their avatar, name, bio, repositories, followers, following, and more. The app also includes a dark mode feature for improved user experience.
 
@@ -25,5 +25,5 @@ To run DevDetective locally, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/kumardivyachaitanya/DevDetective.git
+   git clone https://github.com/kumardivyachaitanya/Share-Model.git
 
